@@ -1,0 +1,38 @@
+{
+  "name": "ScarySwap Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["ScarySwap", "default"],
+  "tokens": [
+    {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "name": "Wrapped FTM",
+      "symbol": "WFTM",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+    },
+    {
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "address": "0xAD522217E64Ec347601015797Dd39050A2a69694",
+      "chainId": 250,
+      "decimals": 18,
+      "name": "PUMPKIN",
+      "symbol": "Pumpkin",
+      "logoURI": "/images/pumpkin.png"
+    }
+  ]
+}
